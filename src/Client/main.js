@@ -1,1 +1,2 @@
-console.log('Hello from vite');
+import './style.css';
+console.log('Hello from Esbuild.');
